@@ -1,0 +1,27 @@
+body {
+        background-color: #eaf6f6;
+        } 
+    hr {
+        background-color: #eaf6f6;
+        border-style:none;
+        border-top-style: dotted;
+        border-width: 2px;
+        width: auto;
+        border-color: black;
+
+    }
+    h1{
+        color: #66bfbf;
+    }
+    h2{
+        color: #66bfbf;;
+    }
+    th{
+        color: cyan;
+    }
+    .circular{
+        border-radius: 100%
+    }
+    
+  
+    
